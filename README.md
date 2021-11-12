@@ -1,7 +1,7 @@
-👨‍💻 Coder
-📣 Community Leader
-🔊 Speaker
-🧙‍♂️ Mentor
++ 👨‍💻 Coder
++ 📣 Community Leader
++ 🔊 Speaker
++ 🧙‍♂️ Mentor
 
 Alishah has been a professional software engineer for more than 15 years, and worked at 2 Fortune 200 companies, and multiple start-ups.
 
