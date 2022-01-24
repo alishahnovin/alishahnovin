@@ -10,6 +10,6 @@ He was awarded the 2017 Software Engineer/Architect of the Year award with the G
 
 He's coded everything from business applications, to web & mobile apps, and video games. One notable personal project was ranked one of the top 100 sites of 2009 by PCMag.
 
-He spent 10 years in the Software Robotics / Automation space and Healthcare industry.
+He spent 10 years in the Software Robotics / Automation space and Healthcare industry, and has lead teams of 25+ people, overseeing multiple engineering & analytics teams.
 
-Having lead teams of 25+ people, he currently oversees multiple engineering & analytics teams at Nashville-based FinTech company, Celero Commerce.
+Currently he is a Sr. Program Manager at Microsoft.
