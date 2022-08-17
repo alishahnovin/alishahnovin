@@ -12,4 +12,4 @@ He's coded everything from business applications, to web & mobile apps, and vide
 
 He spent 10 years in the Software Robotics / Automation space and Healthcare industry, and has lead teams of 25+ people, overseeing multiple engineering & analytics teams.
 
-Currently he is a Sr. Program Manager at Microsoft.
+Currently he is a Sr. Product Manager at Microsoft.
