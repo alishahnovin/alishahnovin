@@ -1,3 +1,4 @@
++ 🎯 Product Manager for 4+ years
 + 👨‍💻 Coder for 16+ years
 + 📣 Community Leader for 11+ years
 + 👔 Manager & Director for 10+ years
