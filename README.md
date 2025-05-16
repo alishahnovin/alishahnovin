@@ -1,9 +1,8 @@
-+ 🎯 Product Manager for 4+ years
-+ 👨‍💻 Coder for 16+ years
-+ 📣 Community Leader for 11+ years
-+ 👔 Manager & Director for 10+ years
-+ 🔊 Speaker for 9+ years
-+ 🧙‍♂️ Agile Transformer for 7+ years
++ 🎯 Product Manager for 7+ years
++ 👨‍💻 Coder for 17+ years
++ 📣 Leader & Mentor for 13+ years
++ 👔 Manager & Director for 12+ years
++ 🧙‍♂️ Agile Transformer for 10+ years
 
 Alishah has been a professional software engineer for more than 15 years, and worked at 2 Fortune 200 companies, and multiple start-ups.
 
